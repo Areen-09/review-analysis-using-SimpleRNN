@@ -15,8 +15,8 @@ This is a Streamlit-based web application that uses a pre-trained deep learning 
 
 1. Clone the repository:
 ```cmd
-git clone https://github.com/Yuvraj0014/Sentiment-Analysis-using-RNN-and-NLP.git
-cd Sentiment-Analysis-using-RNN-and-NLP
+git clone https://github.com/Areen-09/review-analysis-using-SimpleRNN.git
+cd Review-Analysis-using-RNN-and-NLP
 ```
 
 2. Setup a virtual environment (optional but recommended)
