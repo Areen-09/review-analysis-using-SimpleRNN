@@ -88,6 +88,7 @@ The sentiment classification is based on a neural network model trained on the I
 - Informative tips and instructions 💡
 
 ## Output Screen
+![Screenshot 2025-01-20 203155](https://github.com/user-attachments/assets/5929afc9-b700-45f4-b95b-70ca26c297ee)
 
 
 ## 📌 Note
